@@ -1,7 +1,8 @@
-package com.example.quotes;
+package com.example.quotes.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
+import com.example.quotes.R;
 
 public class MainActivity extends AppCompatActivity
 {
